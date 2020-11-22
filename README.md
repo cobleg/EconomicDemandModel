@@ -1,2 +1,1 @@
-# EconomicDemandModel
-Estimated econometric model of the demand for electricity
+Panel regression models to estimate price and economic activity elasticities.
